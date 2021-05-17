@@ -1,1 +1,1 @@
-download models from 
+download models from download.sh
